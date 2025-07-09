@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+.header_box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+.header{
+    width: 360px;
+    height: 100%;
+    position:relative;
+    background-color: #fff;
+    color:black;
+}
+
+.header_title{
+    text-decoration: underline;
+}
+
+.header_txt{
+    display: flex;
+    justify-content: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+.header_txt_one{
+    display: flex;
+    justify-content: center;
+}
+
+.fav-button{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    background-color: #fff;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.faw-btn-style-header{
+    height: 40px;
+    width: 40px;
+    padding-top: 7px;
+    padding-left: 6px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+
+.translate-btn{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    background-color: #fff;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.translate-btn-styles{
+    color: black;
+    padding-top: 7px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 12%;
+}
+
+.translation{
+    color: black;
+}
+
+.main-content{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    width: 360px;
+    height: 100%;
+    
+}
+
+.center_block{
+    height: 100%;
+    width: 360px;
+    background-color: #fff;
+    border-bottom: 3px solid black;
+}
+
+.center-block-one{
+    height: 100%;
+    width: 360px;
+    background-color: #fff;
+}
+
+
+
+.txt{
+    color: black;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 14px;
+    border-bottom: 1px solid black;
+}
+
+.txt-one{
+    color: black;
+    padding-left: 14px;
+    padding-bottom: 3px;
+    border-top: 3px solid black;
+}
+
+.txt-two{
+    padding-left: 14px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-top: 3px solid black;
+}
+
+.price{
+    color: #21BBE4;
+}
+
+.gramms{
+    color: gray;
+    padding-bottom: 5px;
+}
+
+.describe{
+    color: gray;
+}
+
+.gramms-end{
+    color: gray;
+    padding-bottom: 5px;
+}
+
+.faw-btn{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    background-color: #fff;
+    /* border-bottom: 3px solid black; */
+    padding-bottom: 5px;
+}
+
+.faw-btn-style{
+    height: 40px;
+    width: 40px;
+    padding-top: 7px;
+    padding-left: 6px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+
+.btn{
+    height: 27px;
+    width: 27px;
+}
